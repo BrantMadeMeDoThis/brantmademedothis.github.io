@@ -6,10 +6,19 @@
     <description>Recent content in Categories on He Said They Said</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Jul 2020 12:52:00 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2020 14:25:49 -0400</lastBuildDate>
     
 	<atom:link href="https://brantmademedothis.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Posts</title>
+      <link>https://brantmademedothis.github.io/categories/posts/</link>
+      <pubDate>Sun, 19 Jul 2020 14:25:49 -0400</pubDate>
+      
+      <guid>https://brantmademedothis.github.io/categories/posts/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Videos</title>
@@ -17,15 +26,6 @@
       <pubDate>Sun, 19 Jul 2020 12:52:00 -0400</pubDate>
       
       <guid>https://brantmademedothis.github.io/categories/videos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Posts</title>
-      <link>https://brantmademedothis.github.io/categories/posts/</link>
-      <pubDate>Tue, 14 Jul 2020 09:43:09 -0400</pubDate>
-      
-      <guid>https://brantmademedothis.github.io/categories/posts/</guid>
       <description></description>
     </item>
     
