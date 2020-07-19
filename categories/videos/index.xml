@@ -6,10 +6,19 @@
     <description>Recent content in Videos on He Said They Said</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Jul 2020 20:40:26 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2020 12:52:00 -0400</lastBuildDate>
     
 	<atom:link href="https://brantmademedothis.github.io/categories/videos/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>July 18th Show</title>
+      <link>https://brantmademedothis.github.io/post/july18/</link>
+      <pubDate>Sun, 19 Jul 2020 12:52:00 -0400</pubDate>
+      
+      <guid>https://brantmademedothis.github.io/post/july18/</guid>
+      <description>&lt;p&gt;Check out our Stache Show!&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>July 14th Happy Hour</title>
@@ -53,7 +62,7 @@
       <pubDate>Thu, 25 Jun 2020 22:12:00 -0400</pubDate>
       
       <guid>https://brantmademedothis.github.io/post/twitchchannel/</guid>
-      <description>  </description>
+      <description>Follow us on Twitch TV to catch our performances and hangouts live! https://www.twitch.tv/hesaidtheysaid</description>
     </item>
     
   </channel>
